@@ -1,0 +1,70 @@
+*{font-size:2.5vw;}
+body{background: linear-gradient(to right, #85f0d5, #3a675f);}
+.nav{ background-color:black;}
+.nav a {color:white; text-decoration:none; margin:2vw;}
+
+.courses-box {
+    border: 2px solid #161313;
+    padding: 30px;
+    margin: 40px auto;
+    width: 50%;
+    box-shadow: 0 -10px 25px rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+    background-color: #a49f9f;
+    
+    
+  }
+
+  .doubt-box{
+    border: 3px solid #191b1b;
+    padding: 35px;
+    margin: 50px auto;
+    width: 50%;
+    box-shadow: 0 -10px 25px rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+    background-color: transparent;
+    opacity: 0.9; /* Set the opacity here */
+    
+    
+  }
+  
+  
+  .courses-box p {
+    margin: 10px 0;
+  }
+
+ 
+ 
+  form input[type="submit"] {
+    padding: 10px 20px;
+    border: none;
+    background-color: #303232;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  form input[type="submit"]:hover {
+    background-color: #426f69;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #1716161a;
+    background: linear-gradient(to right, #adb6b5, #4a6567);
+    box-shadow: 0 -19px 25px rgba(0, 0, 0, 0.8);
+  }
+  
+  .cpass {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px #1716161a;
+    background-color: #a49f9f;
+  }
